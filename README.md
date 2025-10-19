@@ -15325,6 +15325,7 @@ const RealtimeDashboard: React.FC = () => {
 
 export default RealtimeDashboard;
 ```
+```
 Примеры демонстрируют реальные production-кейсы:
  Ключевые особенности production-приложений:
 E-commerce App:
@@ -15342,6 +15343,7 @@ Real-time Dashboard:
 Статус системы и мониторинг
 Оптимизация производительности
 Продолжим с advanced техниками и оптимизациями?
-
+```
 
 https://github.com/GO-HTML-CSS-JS-REACT-VITE-PG-SASS-VUE/REACT-VITE/edit/main/README.md#:~:text=2025%20год
+
